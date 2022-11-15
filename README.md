@@ -23,7 +23,7 @@ extraction to a separate bundle.
 
 ## Installation
 
-1. Run `composer require stefandoorn/sitemap-plugin`.
+1. Run `composer require stefandoorn/sitemap-plugin:dev-myfix`.
 2. Add to `app/config/bundles.php`:
 
 ```
